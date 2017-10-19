@@ -1,4 +1,4 @@
-(module TPS821XX (layer F.Cu) (tedit 59E712C4)
+(module TPS821XX (layer F.Cu) (tedit 59E89523)
   (fp_text reference REF** (at 0 2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -19,4 +19,9 @@
   (pad 6 smd rect (at 1.05 0.325) (size 0.5 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 1.05 -0.325) (size 0.5 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 1.05 -0.975) (size 0.5 0.4) (layers F.Cu F.Paste F.Mask))
+  (model C:/projects/KicadFootprint/SIL0008D.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
